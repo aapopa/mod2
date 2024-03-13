@@ -1,6 +1,6 @@
 Module 2 homework 
 
-Description: A brief description of the project goes here.
+Module 2 homework required to find the yearly change and percent change for each ticker. In addition, it required to find the greatest percentage increase and decrease, as well as the greatest volume of stock. 
 
 ## Usage
 
